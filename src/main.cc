@@ -3,6 +3,8 @@
 
 #include <iostream>
 
+#include "Simple/simple.h"
+
 static void ShowUsage(void) {
   std::cout << "===========================================================\n";
 	std::cout << "AlgorithmExercise\n";
